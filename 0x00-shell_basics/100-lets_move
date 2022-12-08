@@ -1,0 +1,2 @@
+#1/bin/bash
+mc [[:upper:]]* /tmp/u
